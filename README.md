@@ -1,3 +1,3 @@
-## Hi there 👋
+## Ibrahim EL KASSIMI 👓
 
-![Alt text](assets/backround.png)
+<img src="assets/backround.png" alt="Alt text"  height = "300" width="1000">
