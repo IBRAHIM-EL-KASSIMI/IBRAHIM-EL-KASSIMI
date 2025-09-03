@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-![Alt text](assets/backroud.png)
+![Alt text](assets/backround.png)
