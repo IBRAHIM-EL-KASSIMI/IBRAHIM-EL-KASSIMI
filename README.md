@@ -1,13 +1,14 @@
 <h1 align="center"> <span style="color:#00BFFF;">「 Ibrahim EL KASSIMI 」</span> 👋</h1>
 
 
-📄[Resume](./assets/ELKASSIMI_Eng_nov12.pdf)
 
 ---
 <h3 align="center">📚 Engineering Student @ ENS Paris-Saclay | </h3>
 
 ---
+📄[Resume](./assets/ELKASSIMI_Eng_nov12.pdf)
 
+---
 ### 🤔 About Me  
 🔭 Currently conducting research on **algorithms for artistic image simplification**.  
 ⚙️ Exploring **AI, robotics, and physics simulations**.  
