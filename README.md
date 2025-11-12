@@ -1,4 +1,4 @@
-<h1 align="center"> <span style="color:#00BFFF;">「 ✦Ibrahim EL KASSIMI✦ 」</span> 👋</h1>
+<h1 align="center"> <span style="color:#00BFFF;">「 Ibrahim EL KASSIMI 」</span> 👋</h1>
 
 
 📄[Resume](./assets/ELKASSIMI_Eng_nov12.pdf)
