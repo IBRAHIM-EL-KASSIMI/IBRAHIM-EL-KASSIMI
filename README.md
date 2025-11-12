@@ -1,14 +1,12 @@
 <h1 align="center"> <span style="color:#00BFFF;">「 ✦Ibrahim EL KASSIMI✦ 」</span> 👋</h1>
 
-reusme attach 
+
+📄[Resume](./assets/ELKASSIMI_Eng_nov12.pdf)
 
 ---
 <h3 align="center">📚 Engineering Student @ ENS Paris-Saclay | </h3>
 
 ---
-notes 
-    vhdl, pandas, matlab, 
-
 
 ### 🤔 About Me  
 🔭 Currently conducting research on **algorithms for artistic image simplification**.  
@@ -34,14 +32,12 @@ promoting faster iteration, testing, and innovation.
 
 
 ### 🧠 Tech Stack
-
-| 💻 Languages | ⚙️ Tools | 🌐 Frameworks |
-|:-------------:|:---------:|:--------------:|
+| 💻 Languages | ⚙️ Tools & Platforms | 📚 Libraries & Frameworks |
+|:------------:|:--------------------:|:-------------------------:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) |
- ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAABZElEQVR4nO2ZsQ3CMBBE5ybiJjZAjbZAjbZAjbYAjbYAjTYAjrRSVyDhziB+J8fO2dz+KDmQdlE2BzPKV6pmp7g9ID+1XbRApG0Nh0L3gRrRLYvKYA+Rk0rApmSASdNohPmmQAR1REX1GOKf7kIocVg8H4vPMP6FjvQrD5YYbgQ7zF7SZXK6fJcKAjfTIBchLwBuAzwM2F06zTNhj2P7AFI5k1EYZ1AOnv4dzJBDdFYYPgI9gQBNDAzRG0PYb8z0bVtz7S9U38T0c4Q5ZQ2AP9HgCYjoHuDiDaJe/ay6ApgRHBwY24YzgTKYrN3LgEfMcG1zwPjKD0OqOSu6Dj3vK/UP82XqZ3iHf+d5QX2d/NbxvDZDFy07AAAAAElFTkSuQmCC&logoColor=white)| ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
-|  | | ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
-|
-
-
-![MATLAB](https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=https://github.com/IBRAHIM-EL-KASSIMI/IBRAHIM-EL-KASSIMI/blob/main/matlab.png=white)
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| ![MATLAB](https://custom-icon-badges.herokuapp.com/badge/MATLAB-blueorange.svg?logo=matlab&style=for-the-badge&color=0076A8) | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
+| ![Verilog](https://img.shields.io/badge/Verilog-8B2DF0?style=for-the-badge) |![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge) | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| |  | ![PyQt5](https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
+|  | | ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) |
+|  |  |  |
