@@ -2,7 +2,6 @@
 
 
 
----
 <h3 align="center">📚 Engineering Student @ ENS Paris-Saclay | </h3>
 
 ---
@@ -22,17 +21,17 @@
 
 ###  Work experience & projects  
 
-🌌 **[Self-driven airship](https://github.com/IBRAHIM-EL-KASSIMI/autonomus_airship)**  
+ **[Self-driven airship](https://github.com/IBRAHIM-EL-KASSIMI/autonomus_airship)**  
 > Developed autonomous navigation capabilities using embedded systems, AprilTags and integrated camera modules for image
 acquisition and feedback control.  
 
 
-📊 **[Automation & Data Processing Developer – Biosensing Startup](https://github.com/IBRAHIM-EL-KASSIMI/DATA_ANALYSIS_PROJECT)**  
+ **[Automation & Data Processing Developer – Biosensing Startup](https://github.com/IBRAHIM-EL-KASSIMI/DATA_ANALYSIS_PROJECT)**  
 > Collaborated with the fast-growing R&D team at Kimialys to integrate automation scripts with experimental protocols,
 promoting faster iteration, testing, and innovation.
 
 
-### 🧠 Tech Stack
+###  Tech Stack
 | 💻 Languages | ⚙️ Tools & Platforms | 📚 Libraries & Frameworks |
 |:------------:|:--------------------:|:-------------------------:|
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) |
