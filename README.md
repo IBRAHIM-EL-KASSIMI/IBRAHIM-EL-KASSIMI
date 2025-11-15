@@ -29,7 +29,7 @@
 acquisition and feedback control.  
 
 
- **[Automation & Data Processing Developer – Biosensing Startup](https://github.com/IBRAHIM-EL-KASSIMI/DATA_ANALYSIS_PROJECT)**  
+ **Automation & Data Processing Developer – Biosensing Startup**  
 > Collaborated with the fast-growing R&D team at Kimialys to integrate automation scripts with experimental protocols,
 promoting faster iteration, testing, and innovation.
 
