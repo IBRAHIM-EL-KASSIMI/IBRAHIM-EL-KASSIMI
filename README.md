@@ -19,7 +19,10 @@
 ---
 ---
 
-###  Work experience & projects  
+###  Research & Work experience 
+
+**Computational Imaging & Optimization - Laboratoire SATIE**
+>Currently researching and implementing optimization algorithms (e.g., genetic algorithms, ML-based) for vectorizing images into geometric primitives
 
  **[Self-driven airship](https://github.com/IBRAHIM-EL-KASSIMI/autonomus_airship)**  
 > Developed autonomous navigation capabilities using embedded systems, AprilTags and integrated camera modules for image
